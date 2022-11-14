@@ -1,0 +1,15 @@
+.edit, .del{
+border-radius: 20px;
+background-color: darkgreen;
+padding: 10px;
+color: white;
+margin: 2px;
+}
+
+.del:focus{
+  background-color: rgb(201, 101, 101);
+}
+
+.listedItems{
+  list-style-type : none;
+}
